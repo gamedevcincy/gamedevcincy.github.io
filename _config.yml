@@ -14,7 +14,6 @@ github_username:  gamedevcincy
 gplus_username:  ucgamedevcincy
 
 # Google-analytics
-google-analytics:
-  id: "UA-125391325-1"
+google_analytics: "UA-125391325-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
