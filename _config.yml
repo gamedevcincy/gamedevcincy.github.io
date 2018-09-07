@@ -1,1 +1,15 @@
 remote_theme: particle
+
+# Site settings
+description: The Game Development Group at the University of Cincinnati
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://gamedevcincy.github.io/gamdevcincy.github.io" # the base hostname & protocol for your site
+
+# User settings
+username: Game Dev Exec
+user_description: Exec Member of the Game Development Group
+user_title: Game Developer
+email: ucgamedevgroup@gmail.com
+twitter_username: gamedevcincy
+github_username:  gamedevcincy
+gplus_username:  ucgamedevgroup
