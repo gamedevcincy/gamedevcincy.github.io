@@ -15,6 +15,6 @@ gplus_username:  ucgamedevcincy
 
 # Google-analytics
 google-analytics:
-  id: "UA-125391325-1"
+  id: UA-125391325-1
 
 exclude: ['package.json', 'src' , 'node_modules']
