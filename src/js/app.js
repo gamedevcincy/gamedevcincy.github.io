@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "value": "random"
       },
       "shape": {
-        "type": "edge",
+        "type": "polygon",
         "stroke": {
           "width": 1,
           "color": "#000000"
@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "size": {
-        "value": 3,
+        "value": 5,
         "random": true,
         "anim": {
           "enable": false,
