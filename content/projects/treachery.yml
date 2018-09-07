@@ -1,0 +1,5 @@
+skills: 
+  one: "C#"
+  two: Unity
+  three: Blender
+description: Attempted reimagining of Betrayal at House on the Hill board game using Unity and Blender. It was an honors project worked on with two of my friends, Jorden and Erin. We finishing a working proof of concept after a few months of work and the team learned how to make 3D models and use Unity’s networking capabilities.
