@@ -1,0 +1,21 @@
+# Project Template Example
+#
+# - title: Name of your project
+#   url: A https:// link to your hosted project. 
+#       See about Github Pages for hosting a website with your projects repo
+#   img: The name of your img and its file type (ex. MyGame.png)
+#         Make sure to place you PNG, SVG, or JPEG image in this projects /asset/img folder.
+#   description: A short 3-4 scentence abstract describing your project.
+#   skils: These are the skill you used to build your project, or learned along the way
+#     - 'skill one'
+#     - 'skill two'
+# 
+
+- title: Treachery
+  url: 'https://github.com/nicholas-maltbie/Treachery'
+  img: 'Treachery.png'
+  description: Attempted reimagining of Betrayal at House on the Hill board game using Unity and Blender. It was an honors project worked on with two of my friends, Jorden and Erin. We finished a working proof of concept after a few months of work and the team learned how to make 3D models and use Unity’s networking capabilities.
+  skills:
+    - 'C#'
+    - 'Unity Networking'
+    - 'Blender'
