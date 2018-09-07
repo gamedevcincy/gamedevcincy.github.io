@@ -1,5 +1,5 @@
 # Site settings
-title: Game Dev @ UC
+title: "Game Dev @ UC"
 description: Student Group, University of Cincinnati, Game Development, Video Games, Analog Games, Games, Board Games, Unity, Unity3D
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,8 +7,8 @@ description: Student Group, University of Cincinnati, Game Development, Video Ga
 # User settings
 username: Game Development Group
 user_description: Student group about Game Development.
-user_title: Student Group at UC
-email: ucgamedevgroup@gmail.com
+user_title: "Student Group at UC"
+email: "ucgamedevgroup@gmail.com"
 twitter_username: gamedevcincy
 github_username:  gamedevcincy
 gplus_username:  ucgamedevcincy
