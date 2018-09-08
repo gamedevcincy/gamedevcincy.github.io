@@ -4,9 +4,7 @@
 {% for project in site.data.projects %}
   <div class="user-projects">
     <div class="images-right">
-      {% assign imgBase = "/assets/img/" %}
-      {% assign img_uri = imgBase | concat: project.img %}
-      <img alt="{{ project.title }}" src="{{ img_uri | prepend: site.baseurl }}" />
+      <img alt="{{ project.title }}" src="{{ project.img | prepend: site.baseurl }}" />
     </div>
     <div class="contents">
       <h3> {{ project.title }} </h3>
